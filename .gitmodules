@@ -1,0 +1,3 @@
+[submodule "support/connect-js"]
+	path = support/connect-js
+	url = https://github.com/facebook/connect-js
